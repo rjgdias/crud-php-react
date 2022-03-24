@@ -1,0 +1,22 @@
+.navbar{
+    background-color : #060b26;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    /* position: fixed; */
+    top: 0;
+    left: 0;
+    right: 0;
+}
+select{ /* <div> */
+    width: 250px;
+    height: 50px;
+    font-size: 20px;
+    background: #f2f2f3;
+    padding-left: 100px
+}
+.navbar p{
+    color: white;
+    display: inline-block;
+    margin-left: 5vw;
+}
