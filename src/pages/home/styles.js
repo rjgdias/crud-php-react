@@ -19,7 +19,6 @@ export const Table = styled.table`
         color: #3e3e3e;
         padding: 8px;
         text-align: center;
-        
     }
 `
 export const ButtonPrimary = styled.button`

@@ -9,7 +9,6 @@ import { Link } from "react-router-dom";
 function App() {
 
   const [data, setData] = useState([]);
-
   const [Status, setStatus] = useState({
     type: '',
     error: ''
